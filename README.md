@@ -34,7 +34,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bhavin-chauhan)
 - 📧 Email: bhavin.chauhan.dev@gmail.com *(replace with actual if different)*
-- 🌐 Portfolio: *(add if available)*
+- 🌐 [Portfolio](https://bhavinchauhanios.github.io/)
 
 ---
 
