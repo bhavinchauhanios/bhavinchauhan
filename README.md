@@ -18,7 +18,7 @@
 
 - 🍏 **100 Days of SwiftUI** – building everything from layouts to animations  
 - 🔁 Exploring: SwiftData, Firebase integration, Combine, Flutter  
-- 🧠 Sharing insights and progress on [LinkedIn](https://www.linkedin.com/in/bhavin-chauhan)
+- 🧠 Sharing insights and progress on [LinkedIn](https://www.linkedin.com/in/bhavin-chauhan-73008026/))
 
 ---
 
@@ -32,8 +32,8 @@
 
 ## 📫 Let's Connect
 
+- 📧 Email: bhavinchauhan.tech@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bhavin-chauhan)
-- 📧 Email: bhavin.chauhan.dev@gmail.com *(replace with actual if different)*
 - 🌐 [Portfolio](https://bhavinchauhanios.github.io/)
 
 ---
